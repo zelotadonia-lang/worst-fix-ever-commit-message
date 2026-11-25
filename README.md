@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722/zelotadonia-lang/worst-fix-ever-commit-message/rank.svg)](https://make.fun/bounty/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722)
 [![reward](https://make.fun/badge/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722/zelotadonia-lang/worst-fix-ever-commit-message/reward.svg)](https://make.fun/bounty/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722)
 
-One commit message for the bug fix that made everything worse — the fix that traded one bug for a smaller, faster one: "fix: replaced the bug with a smaller, faster bug".
+This entry offers `fix: replaced the bug with a smaller, faster bug` as a commit message for a bug fix that somehow made the problem worse.
 
 ## Run it
 
@@ -12,7 +12,7 @@ One commit message for the bug fix that made everything worse — the fix that t
 node main.ts
 ```
 
-It writes the single line to `/output/entry.txt` (48 characters, UTF-8, no trailing newline).
+The program writes that one line to `/output/entry.txt` (48 characters, UTF-8, no trailing newline).
 
 ---
 
